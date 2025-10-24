@@ -74,7 +74,7 @@ El código fuente es propiedad intelectual del autor y solo se distribuye bajo e
 
 # 🏛️ Fines Legales en Colombia
 
-Este proyecto ha sido desarrollado con fines **académicos, formativos y de investigación aplicada**, conforme a los lineamientos del **Servicio Nacional de Aprendizaje (SENA)** y la normatividad colombiana vigente en materia de **propiedad intelectual, derechos de autor y uso ético del software**.
+Este proyecto ha sido desarrollado con fines **académicos, formativos y de investigación aplicada**, conforme a los lineamientos del **educativos** y la normatividad colombiana vigente en materia de **propiedad intelectual, derechos de autor y uso ético del software**.
 
 El uso, reproducción, modificación o distribución del código fuente, en todo o en parte, deberá realizarse bajo las siguientes condiciones:
 
