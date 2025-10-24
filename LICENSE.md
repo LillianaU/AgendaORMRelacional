@@ -105,6 +105,6 @@ Cualquier implementación basada en este sistema deberá cumplir con lo establec
 
 ---
 
-**© 2025 - Proyecto SENA**  
+**© 2025 - Proyecto Lilliana Uribe**  
 Desarrollado bajo fines educativos y de formación profesional integral.
 
