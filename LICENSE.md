@@ -71,3 +71,40 @@ El código fuente es propiedad intelectual del autor y solo se distribuye bajo e
 ### 6. CONTACTO
 📧 [lillyuribegon@gmail.com]  
 **© 2024 [Lilliana Uribe G]. Todos los derechos reservados.**
+
+# 🏛️ Fines Legales en Colombia
+
+Este proyecto ha sido desarrollado con fines **académicos, formativos y de investigación aplicada**, conforme a los lineamientos del **Servicio Nacional de Aprendizaje (SENA)** y la normatividad colombiana vigente en materia de **propiedad intelectual, derechos de autor y uso ético del software**.
+
+El uso, reproducción, modificación o distribución del código fuente, en todo o en parte, deberá realizarse bajo las siguientes condiciones:
+
+---
+
+## ⚖️ 1. Cumplimiento Legal
+El usuario se compromete a dar cumplimiento a lo establecido en la **Ley 23 de 1982**, la **Ley 44 de 1993**, la **Decisión Andina 351 de 1993**, y la **Ley 603 de 2000**, así como a cualquier norma complementaria o modificatoria sobre derechos de autor en Colombia.
+
+---
+
+## 🎓 2. Uso Ético y Académico
+El software puede ser utilizado con propósitos **educativos, investigativos o de mejora profesional**, evitando su uso con fines ilícitos, comerciales no autorizados o que vulneren derechos de terceros.
+
+---
+
+## ✍️ 3. Reconocimiento del Autor
+Se debe reconocer la autoría del desarrollador o equipo creador al utilizar, modificar o distribuir el código, según los principios de **atribución justa** y respeto a la **propiedad intelectual**.
+
+---
+
+## 🛡️ 4. Limitación de Responsabilidad
+El autor o autores no asumen responsabilidad alguna por los daños o perjuicios que se deriven del uso indebido o interpretación incorrecta del software.
+
+---
+
+## 🔒 5. Protección de Datos Personales
+Cualquier implementación basada en este sistema deberá cumplir con lo establecido en la **Ley 1581 de 2012** y el **Decreto 1377 de 2013** sobre protección de datos personales en Colombia.
+
+---
+
+**© 2025 - Proyecto SENA**  
+Desarrollado bajo fines educativos y de formación profesional integral.
+
