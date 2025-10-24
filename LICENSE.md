@@ -8,7 +8,7 @@
 | **Versión** | 1.0 |
 | **Tipo de Licencia** | Educativa – Uso Privado |
 | **Fecha de Emisión** | 24 de octubre de 2024 |
-| **Licenciante** | [Tu Nombre / Institución Educativa] |
+| **Licenciante** | LIlliana Uribe Gonzalez |
 
 ---
 
@@ -33,7 +33,8 @@
 #### 2.2 RESTRICCIONES EXPLÍCITAS
 🚫 **PROHIBIDO USO COMERCIAL:**
 - Venta, alquiler o licenciamiento comercial  
-- Integración en productos con fines de lucro  
+- Integración en productos con fines de lucro
+- Distribucion si respecto al derecho de autor fines investigativos  
 
 🚫 **PROHIBIDA REDISTRIBUCIÓN COMERCIAL:**
 - Publicación en plataformas comerciales  
@@ -60,7 +61,7 @@
 
 ### 5. PROPIEDAD INTELECTUAL
 > Copyright (c) 2024  
-> [Tu Nombre / Institución Educativa]  
+> [Lilliana Uribe]  
 > Todos los derechos reservados.  
 
 El código fuente es propiedad intelectual del autor y solo se distribuye bajo esta licencia.
@@ -68,5 +69,5 @@ El código fuente es propiedad intelectual del autor y solo se distribuye bajo e
 ---
 
 ### 6. CONTACTO
-📧 [tu-email@dominio.com]  
-**© 2024 [Tu Nombre]. Todos los derechos reservados.**
+📧 [lillyuribegon@gmail.com]  
+**© 2024 [Lilliana Uribe G]. Todos los derechos reservados.**
