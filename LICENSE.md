@@ -46,7 +46,7 @@
 ---
 
 ### 3. ATRIBUCIÓN Y RECONOCIMIENTO
-> “Agenda Digital – Desarrollado por [Tu Nombre]  
+> “Agenda Digital – Desarrollado por [LIlliana URibe GOnzalez]  
 > Licencia Educativa – Uso Privado  
 > https://github.com/tu-usuario/AgendaORMRelacional”
 
