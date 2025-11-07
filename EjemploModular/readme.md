@@ -121,4 +121,4 @@ Las pruebas verifican:
 ![Diagrama de clases](imgModelo/clases.png)
 
 # diagrama de paquete que miestra arquitectura modular
-![Diagrama de clases](imgModelo/paquete.png)
+![Diagrama de paquetes](imgModelo/paquetes.png)
