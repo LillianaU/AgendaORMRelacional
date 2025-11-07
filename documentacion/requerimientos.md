@@ -183,7 +183,7 @@ El sistema es una **aplicación monolítica** ejecutada en entorno de consola, c
 ### A. Diagrama de claases
 
 
-![Diagrama de Casos de Uso](./casos_de_uso.png)
+![Diagrama de Casos de Uso](./casosdeusos.png)
 
 ### A. Diagrama de Casos de Uso  
 
