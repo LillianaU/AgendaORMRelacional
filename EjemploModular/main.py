@@ -11,9 +11,9 @@ def mostrar_menu_principal():
     print("\n" + "="*50)
     print("📋 MENÚ PRINCIPAL")
     print("="*50)
-    print("1. Registrar nueva persona")
-    print("2. Iniciar sesión")
-    print("3. Salir")
+    print("1. 👉Registrar nueva persona")
+    print("2. 😎Iniciar sesión")
+    print("3. 👣Salir")
     return input("Seleccione opción: ")
 
 def mostrar_menu_usuario(persona: Persona):

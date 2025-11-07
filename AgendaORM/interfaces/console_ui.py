@@ -14,10 +14,38 @@ class ConsoleUI:
 
     def ejecutar(self):
         """Método principal que inicia la aplicación"""
+        # Mostrar el encabezado y ofrecer un menú de autenticación explícito
         print("=== AGENDA DIGITAL ===")
-        self.autenticar_usuario()
-        if self.usuario_actual:
-            self.mostrar_menu_principal()
+
+        while True:
+            print("\n" + "="*40)
+            print("      BIENVENIDO A AGENDA DIGITAL")
+            print("="*40)
+            print("1. 😎 Ingresar")
+            print("2. 👉 Registrarse")
+            print("3. 👣Salir")
+
+            opcion = input("\nSeleccione una opción (1-3): ").strip()
+
+            if opcion == '1':
+                # Intentar inicio de sesión
+                if self.iniciar_sesion():
+                    # Mostrar el menú principal sólo si el inicio fue exitoso
+                    self.mostrar_menu_principal()
+                    break
+                else:
+                    # Volver al menú de autenticación
+                    continue
+            elif opcion == '2':
+                # Registrar un nuevo contacto y luego volver al menú de autenticación
+                self.crear_nuevo_contacto()
+                input("\nPresione Enter para volver al menú de inicio...")
+                continue
+            elif opcion == '3':
+                print("\n👋 Saliendo...")
+                break
+            else:
+                print("❌ Opción no válida. Por favor seleccione 1-3.")
 
     def autenticar_usuario(self):
         """Maneja el proceso de autenticación"""
@@ -64,9 +92,8 @@ class ConsoleUI:
     def mostrar_menu_principal(self):
         """Muestra el menú principal de la aplicación"""
         while True:
-            print("\n" + "="*40)
-            print("          MENÚ PRINCIPAL")
-            print("="*40)
+            # Mostrar el menú exactamente como fue solicitado
+            print("\n=== AGENDA DIGITAL ===")
             print("1. 👤  Mi Perfil")
             print("2. 📝  Crear Nuevo Contacto")
             print("3. 📋  Listar Todos los Contactos")
@@ -152,6 +179,14 @@ class ConsoleUI:
         
         if self.contact_service.crear_contacto(nombre, apellido, username, password):
             print("✅ Contacto creado exitosamente.")
+            # Intentar iniciar sesión automáticamente con las credenciales recién creadas
+            usuario = self.auth_service.iniciar_sesion(username, password)
+            if usuario:
+                self.usuario_actual = usuario
+                print("✅ Sesión iniciada automáticamente. Redirigiendo al menú principal...")
+                self.mostrar_menu_principal()
+            else:
+                print("ℹ️ No se pudo iniciar sesión automáticamente. Por favor, elija 'Ingresar' en el menú y use sus credenciales.")
         else:
             print("❌ Error al crear el contacto. El username puede estar en uso.")
 
