@@ -23,6 +23,7 @@ EjemploModular/
 │   ├── __init__.py
 │   ├── test_modelos.py    # Tests de clases POO
 │   └── test_cruds.py      # Tests de operaciones CRUD
+│   └── ..............     # Tests de otras  operaciones CRUD clases
 │
 ├── .env                   # Configuración BD (CREAR MANUALMENTE)
 ├── main.py                # Aplicación principal (menú interactivo)
@@ -57,8 +58,8 @@ El archivo `main.py` es el punto de entrada de la aplicación. Aquí se configur
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/LillianaU/AgendaORMRelacional.git
+cd AgendaORMRelacional
 ```
 
 2. Crea y activa un entorno virtual:
