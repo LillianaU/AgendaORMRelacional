@@ -118,7 +118,7 @@ Las pruebas verifican:
 - Integridad de la base de datos
 
 # diagrama de clases
-![Diagrama de clases](./clases.png)
+![Diagrama de clases](imgModelo/clases.png)
 
 # diagrama de paquete que miestra arquitectura modular
 ![Diagrama de clases](./paquete.png)
