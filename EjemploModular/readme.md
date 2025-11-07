@@ -116,3 +116,9 @@ Las pruebas verifican:
 - Validaciones de datos
 - Relaciones entre modelos
 - Integridad de la base de datos
+
+# diagrama de clases
+![Diagrama de clases](./clases.png)
+
+# diagrama de paquete que miestra arquitectura modular
+![Diagrama de clases](./paquete.png)
