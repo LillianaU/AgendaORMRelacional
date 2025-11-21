@@ -1,4 +1,6 @@
 # Proyecto de Gestión de Datos
+ojo instala pip install python-dotenv
+
 
 Este proyecto es una aplicación sencilla que permite gestionar personas, teléfonos y correos electrónicos. Utiliza una arquitectura modular en Python que separa los modelos, las operaciones CRUD y el punto de entrada de la aplicación.
 
